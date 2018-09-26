@@ -1,0 +1,15 @@
+search searches 11
+search searching 1
+searches searching 0
+nephew uncle 0
+nephew grandson 0
+nephew niece 0
+uncle grandson 0
+uncle niece 0
+grandson niece 0
+christmas holiday 1
+christmas easter 0
+christmas halloween 0
+holiday halloween 0
+holiday easter 0
+easter halloween 0
